@@ -5,3 +5,6 @@ Key Features:
 2. Interactive Gameplay: JavaScript manages player turns, validates the winner, and displays game status dynamically.
 3. Restart Option: Players can reset the game anytime without refreshing the page.
 4. Winning Logic Implementation: Checks for a win or a draw after every move and provides instant feedback.
+
+# student
+ikbal ahmed
